@@ -29,48 +29,48 @@ body #container {
 #row1-4th {
   border-left: solid black 2px;
 }
-#row2-3rd {
+#row2-3rd, #row3-2nd, #row3-3rd {
   border-left: solid black 2px;
   border-top: solid black 2px;
 }
-#row2-4th {
+#row2-4th, #row3-4th {
   border-left: solid black 2px;
   border-top: solid black 2px;
   border-right: solid black 2px;
 }
 
-#row3-2nd {
+/* #row3-2nd {
   border-left: solid black 2px;
   border-top: solid black 2px;
-}
+} */
 
-#row3-3rd {
+/* #row3-3rd {
   border-left: solid black 2px;
   border-top: solid black 2px;
-}
+} */
 
-#row3-4th{
+/* #row3-4th{
   border-left: solid black 2px;
   border-right: solid black 2px;
   border-top: solid black 2px;
-}
+} */
 
 #row3-5th{
   border-right: solid black 2px;
   border-top: solid black 2px;
 }
  
-#row4-1st, #row4-2nd {
+#row4-1st, #row4-2nd, #row4-3rd {
   border-left: solid black 2px;
   border-top: solid black 2px;
   border-bottom: solid black 2px;
 }
 
-#row4-3rd {
+/* #row4-3rd {
   border-left: solid black 2px;
   border-top: solid black 2px;
   border-bottom: solid black 2px;
-}
+} */
 
 #row4-4th {
   border-left: solid black 2px;
@@ -79,24 +79,24 @@ body #container {
   border-bottom: solid black 2px;
 }
 
-#row4-5th {
+#row4-5th, #row4-6th {
   border-right: solid black 2px;
   border-top: solid black 2px;
   border-bottom: solid black 2px;
 }
 
-#row4-6th {
+/* #row4-6th {
   border-right: solid black 2px;
   border-top: solid black 2px;
   border-bottom: solid black 2px;
-}
+} */
 
 #row5-2nd, #row5-3rd  {
   border-left: solid black 2px;
   border-bottom: solid black 2px;
 }
 
-#row5-4th{
+#row5-4th, #row6-4th{
   border-left: solid black 2px;
   border-right: solid black 2px;
   border-bottom: solid black 2px;
@@ -112,11 +112,11 @@ body #container {
   border-bottom: solid black 2px;
 }
 
-#row6-4th {
+/* #row6-4th {
   border-left: solid black 2px;
   border-right: solid black 2px;
   border-bottom: solid black 2px;
-}
+} */
 
 #row7-4th {
   border-left: solid black 2px;
