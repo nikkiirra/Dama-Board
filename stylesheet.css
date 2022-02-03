@@ -1,0 +1,128 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+body #container {
+  display: flex;
+  flex-direction: column;
+  height: 700px;
+  width: 600px;
+  background: #e6a5ff;
+}
+
+.row {
+  display: flex;
+}
+.row div {
+  width: 100px;
+  height: 100px;
+}
+#row1-4th {
+  border-left: solid black 2px;
+}
+#row2-3rd {
+  border-left: solid black 2px;
+  border-top: solid black 2px;
+}
+#row2-4th {
+  border-left: solid black 2px;
+  border-top: solid black 2px;
+  border-right: solid black 2px;
+}
+
+#row3-2nd {
+  border-left: solid black 2px;
+  border-top: solid black 2px;
+}
+
+#row3-3rd {
+  border-left: solid black 2px;
+  border-top: solid black 2px;
+}
+
+#row3-4th{
+  border-left: solid black 2px;
+  border-right: solid black 2px;
+  border-top: solid black 2px;
+}
+
+#row3-5th{
+  border-right: solid black 2px;
+  border-top: solid black 2px;
+}
+ 
+#row4-1st, #row4-2nd {
+  border-left: solid black 2px;
+  border-top: solid black 2px;
+  border-bottom: solid black 2px;
+}
+
+#row4-3rd {
+  border-left: solid black 2px;
+  border-top: solid black 2px;
+  border-bottom: solid black 2px;
+}
+
+#row4-4th {
+  border-left: solid black 2px;
+  border-right: solid black 2px;
+  border-top: solid black 2px;
+  border-bottom: solid black 2px;
+}
+
+#row4-5th {
+  border-right: solid black 2px;
+  border-top: solid black 2px;
+  border-bottom: solid black 2px;
+}
+
+#row4-6th {
+  border-right: solid black 2px;
+  border-top: solid black 2px;
+  border-bottom: solid black 2px;
+}
+
+#row5-2nd, #row5-3rd  {
+  border-left: solid black 2px;
+  border-bottom: solid black 2px;
+}
+
+#row5-4th{
+  border-left: solid black 2px;
+  border-right: solid black 2px;
+  border-bottom: solid black 2px;
+}
+
+#row5-5th {
+  border-right: solid black 2px;
+  border-bottom: solid black 2px;
+}
+
+#row6-3rd {
+  border-left: solid black 2px;
+  border-bottom: solid black 2px;
+}
+
+#row6-4th {
+  border-left: solid black 2px;
+  border-right: solid black 2px;
+  border-bottom: solid black 2px;
+}
+
+#row7-4th {
+  border-left: solid black 2px;
+}
+
+
+
+
+
